@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/relojatrasiz.ogg-4d74dd27678aa377b2e74e23e05e7c9b.oggstr"
+
+[deps]
+
+source_file="res://sonidos/relojatrasiz.ogg"
+dest_files=[ "res://.import/relojatrasiz.ogg-4d74dd27678aa377b2e74e23e05e7c9b.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

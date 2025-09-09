@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/R10 ft. Marie Ork #RetoLofi.wav-1f4bcef8cf6a3abb7f33ae34f8e40c03.sample"
+
+[deps]
+
+source_file="res://sonidos/R10 ft. Marie Ork #RetoLofi.wav"
+dest_files=[ "res://.import/R10 ft. Marie Ork #RetoLofi.wav-1f4bcef8cf6a3abb7f33ae34f8e40c03.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=true
+compress/mode=0

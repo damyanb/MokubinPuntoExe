@@ -1,0 +1,34 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/framecam1_20200627_0062.jpg-6c8935cc85de1874970d2c026e0cf310.stex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://camara1/framecam1_20200627_0062.jpg"
+dest_files=[ "res://.import/framecam1_20200627_0062.jpg-6c8935cc85de1874970d2c026e0cf310.stex" ]
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/bptc_ldr=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=true
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+process/invert_color=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

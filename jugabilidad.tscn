@@ -1,0 +1,1075 @@
+[gd_scene load_steps=544 format=2]
+
+[ext_resource path="res://camara1/framecam1_20200627_0050.jpg" type="Texture" id=1]
+[ext_resource path="res://camara1/framecam1_20200627_0051.jpg" type="Texture" id=2]
+[ext_resource path="res://camara1/framecam1_20200627_0004.jpg" type="Texture" id=3]
+[ext_resource path="res://camara1/framecam1_20200627_0002.jpg" type="Texture" id=4]
+[ext_resource path="res://camara1/framecam1_20200627_0003.jpg" type="Texture" id=5]
+[ext_resource path="res://camara1/framecam1_20200627_0005.jpg" type="Texture" id=6]
+[ext_resource path="res://camara1/framecam1_20200627_0027.jpg" type="Texture" id=7]
+[ext_resource path="res://camara1/framecam1_20200627_0029.jpg" type="Texture" id=8]
+[ext_resource path="res://camara1/framecam1_20200627_0007.jpg" type="Texture" id=9]
+[ext_resource path="res://camara1/framecam1_20200627_0011.jpg" type="Texture" id=10]
+[ext_resource path="res://camara1/framecam1_20200627_0018.jpg" type="Texture" id=11]
+[ext_resource path="res://camara1/framecam1_20200627_0010.jpg" type="Texture" id=12]
+[ext_resource path="res://camara1/framecam1_20200627_0030.jpg" type="Texture" id=13]
+[ext_resource path="res://camara1/framecam1_20200627_0015.jpg" type="Texture" id=14]
+[ext_resource path="res://camara1/framecam1_20200627_0022.jpg" type="Texture" id=15]
+[ext_resource path="res://camara1/framecam1_20200627_0026.jpg" type="Texture" id=16]
+[ext_resource path="res://camara1/framecam1_20200627_0016.jpg" type="Texture" id=17]
+[ext_resource path="res://camara1/framecam1_20200627_0031.jpg" type="Texture" id=18]
+[ext_resource path="res://camara1/framecam1_20200627_0012.jpg" type="Texture" id=19]
+[ext_resource path="res://camara1/framecam1_20200627_0017.jpg" type="Texture" id=20]
+[ext_resource path="res://camara1/framecam1_20200627_0032.jpg" type="Texture" id=21]
+[ext_resource path="res://camara1/framecam1_20200627_0033.jpg" type="Texture" id=22]
+[ext_resource path="res://camara1/framecam1_20200627_0034.jpg" type="Texture" id=23]
+[ext_resource path="res://camara1/framecam1_20200627_0008.jpg" type="Texture" id=24]
+[ext_resource path="res://camara1/framecam1_20200627_0021.jpg" type="Texture" id=25]
+[ext_resource path="res://camara1/framecam1_20200627_0035.jpg" type="Texture" id=26]
+[ext_resource path="res://camara1/framecam1_20200627_0036.jpg" type="Texture" id=27]
+[ext_resource path="res://camara1/framecam1_20200627_0028.jpg" type="Texture" id=28]
+[ext_resource path="res://camara1/framecam1_20200627_0009.jpg" type="Texture" id=29]
+[ext_resource path="res://camara1/framecam1_20200627_0013.jpg" type="Texture" id=30]
+[ext_resource path="res://camara1/framecam1_20200627_0024.jpg" type="Texture" id=31]
+[ext_resource path="res://camara1/framecam1_20200627_0019.jpg" type="Texture" id=32]
+[ext_resource path="res://camara1/framecam1_20200627_0025.jpg" type="Texture" id=33]
+[ext_resource path="res://camara1/framecam1_20200627_0006.jpg" type="Texture" id=34]
+[ext_resource path="res://camara1/framecam1_20200627_0014.jpg" type="Texture" id=35]
+[ext_resource path="res://camara1/framecam1_20200627_0020.jpg" type="Texture" id=36]
+[ext_resource path="res://camara1/framecam1_20200627_0023.jpg" type="Texture" id=37]
+[ext_resource path="res://camara1/framecam1_20200627_0037.jpg" type="Texture" id=38]
+[ext_resource path="res://camara1/framecam1_20200627_0043.jpg" type="Texture" id=39]
+[ext_resource path="res://camara1/framecam1_20200627_0044.jpg" type="Texture" id=40]
+[ext_resource path="res://camara1/framecam1_20200627_0048.jpg" type="Texture" id=41]
+[ext_resource path="res://camara1/framecam1_20200627_0046.jpg" type="Texture" id=42]
+[ext_resource path="res://camara1/framecam1_20200627_0049.jpg" type="Texture" id=43]
+[ext_resource path="res://camara1/framecam1_20200627_0040.jpg" type="Texture" id=44]
+[ext_resource path="res://camara1/framecam1_20200627_0041.jpg" type="Texture" id=45]
+[ext_resource path="res://camara1/framecam1_20200627_0039.jpg" type="Texture" id=46]
+[ext_resource path="res://camara1/framecam1_20200627_0042.jpg" type="Texture" id=47]
+[ext_resource path="res://camara1/framecam1_20200627_0045.jpg" type="Texture" id=48]
+[ext_resource path="res://camara1/framecam1_20200627_0047.jpg" type="Texture" id=49]
+[ext_resource path="res://camara1/framecam1_20200627_0038.jpg" type="Texture" id=50]
+[ext_resource path="res://camara1/framecam1_20200627_0069.jpg" type="Texture" id=51]
+[ext_resource path="res://camara1/framecam1_20200627_0072.jpg" type="Texture" id=52]
+[ext_resource path="res://camara1/framecam1_20200627_0071.jpg" type="Texture" id=53]
+[ext_resource path="res://camara1/framecam1_20200627_0074.jpg" type="Texture" id=54]
+[ext_resource path="res://camara1/framecam1_20200627_0059.jpg" type="Texture" id=55]
+[ext_resource path="res://camara1/framecam1_20200627_0054.jpg" type="Texture" id=56]
+[ext_resource path="res://camara1/framecam1_20200627_0076.jpg" type="Texture" id=57]
+[ext_resource path="res://camara1/framecam1_20200627_0057.jpg" type="Texture" id=58]
+[ext_resource path="res://camara1/framecam1_20200627_0075.jpg" type="Texture" id=59]
+[ext_resource path="res://camara1/framecam1_20200627_0077.jpg" type="Texture" id=60]
+[ext_resource path="res://camara1/framecam1_20200627_0078.jpg" type="Texture" id=61]
+[ext_resource path="res://camara1/framecam1_20200627_0080.jpg" type="Texture" id=62]
+[ext_resource path="res://camara1/framecam1_20200627_0055.jpg" type="Texture" id=63]
+[ext_resource path="res://camara1/framecam1_20200627_0053.jpg" type="Texture" id=64]
+[ext_resource path="res://camara1/framecam1_20200627_0063.jpg" type="Texture" id=65]
+[ext_resource path="res://camara1/framecam1_20200627_0058.jpg" type="Texture" id=66]
+[ext_resource path="res://camara1/framecam1_20200627_0060.jpg" type="Texture" id=67]
+[ext_resource path="res://camara1/framecam1_20200627_0064.jpg" type="Texture" id=68]
+[ext_resource path="res://camara1/framecam1_20200627_0082.jpg" type="Texture" id=69]
+[ext_resource path="res://camara1/framecam1_20200627_0083.jpg" type="Texture" id=70]
+[ext_resource path="res://camara1/framecam1_20200627_0073.jpg" type="Texture" id=71]
+[ext_resource path="res://camara1/framecam1_20200627_0070.jpg" type="Texture" id=72]
+[ext_resource path="res://camara1/framecam1_20200627_0056.jpg" type="Texture" id=73]
+[ext_resource path="res://camara1/framecam1_20200627_0062.jpg" type="Texture" id=74]
+[ext_resource path="res://camara1/framecam1_20200627_0067.jpg" type="Texture" id=75]
+[ext_resource path="res://camara1/framecam1_20200627_0081.jpg" type="Texture" id=76]
+[ext_resource path="res://camara1/framecam1_20200627_0061.jpg" type="Texture" id=77]
+[ext_resource path="res://camara1/framecam1_20200627_0065.jpg" type="Texture" id=78]
+[ext_resource path="res://camara1/framecam1_20200627_0052.jpg" type="Texture" id=79]
+[ext_resource path="res://camara1/framecam1_20200627_0066.jpg" type="Texture" id=80]
+[ext_resource path="res://camara1/framecam1_20200627_0068.jpg" type="Texture" id=81]
+[ext_resource path="res://camara2/framecam1_20200628_0007.jpg" type="Texture" id=82]
+[ext_resource path="res://camara2/framecam1_20200628_0016.jpg" type="Texture" id=83]
+[ext_resource path="res://camara2/framecam1_20200628_0020.jpg" type="Texture" id=84]
+[ext_resource path="res://camara2/framecam1_20200628_0022.jpg" type="Texture" id=85]
+[ext_resource path="res://camara2/framecam1_20200628_0019.jpg" type="Texture" id=86]
+[ext_resource path="res://camara2/framecam1_20200628_0018.jpg" type="Texture" id=87]
+[ext_resource path="res://camara2/framecam1_20200628_0004.jpg" type="Texture" id=88]
+[ext_resource path="res://camara2/framecam1_20200628_0023.jpg" type="Texture" id=89]
+[ext_resource path="res://camara2/framecam1_20200628_0017.jpg" type="Texture" id=90]
+[ext_resource path="res://camara2/framecam1_20200628_0027.jpg" type="Texture" id=91]
+[ext_resource path="res://camara2/framecam1_20200628_0006.jpg" type="Texture" id=92]
+[ext_resource path="res://camara2/framecam1_20200628_0011.jpg" type="Texture" id=93]
+[ext_resource path="res://camara2/framecam1_20200628_0010.jpg" type="Texture" id=94]
+[ext_resource path="res://camara2/framecam1_20200628_0012.jpg" type="Texture" id=95]
+[ext_resource path="res://camara2/framecam1_20200628_0021.jpg" type="Texture" id=96]
+[ext_resource path="res://camara2/framecam1_20200628_0015.jpg" type="Texture" id=97]
+[ext_resource path="res://camara2/framecam1_20200628_0024.jpg" type="Texture" id=98]
+[ext_resource path="res://camara2/framecam1_20200628_0025.jpg" type="Texture" id=99]
+[ext_resource path="res://camara2/framecam1_20200628_0026.jpg" type="Texture" id=100]
+[ext_resource path="res://camara2/framecam1_20200628_0002.jpg" type="Texture" id=101]
+[ext_resource path="res://camara2/framecam1_20200628_0005.jpg" type="Texture" id=102]
+[ext_resource path="res://camara2/framecam1_20200628_0028.jpg" type="Texture" id=103]
+[ext_resource path="res://camara2/framecam1_20200628_0013.jpg" type="Texture" id=104]
+[ext_resource path="res://camara2/framecam1_20200628_0001.jpg" type="Texture" id=105]
+[ext_resource path="res://camara2/framecam1_20200628_0009.jpg" type="Texture" id=106]
+[ext_resource path="res://camara2/framecam1_20200628_0029.jpg" type="Texture" id=107]
+[ext_resource path="res://camara2/framecam1_20200628_0008.jpg" type="Texture" id=108]
+[ext_resource path="res://camara2/framecam1_20200628_0030.jpg" type="Texture" id=109]
+[ext_resource path="res://camara2/framecam1_20200628_0031.jpg" type="Texture" id=110]
+[ext_resource path="res://camara2/framecam1_20200628_0032.jpg" type="Texture" id=111]
+[ext_resource path="res://camara2/framecam1_20200628_0033.jpg" type="Texture" id=112]
+[ext_resource path="res://camara2/framecam1_20200628_0003.jpg" type="Texture" id=113]
+[ext_resource path="res://camara2/framecam1_20200628_0014.jpg" type="Texture" id=114]
+[ext_resource path="res://camara2/framecam1_20200628_0038.jpg" type="Texture" id=115]
+[ext_resource path="res://camara2/framecam1_20200628_0046.jpg" type="Texture" id=116]
+[ext_resource path="res://camara2/framecam1_20200628_0040.jpg" type="Texture" id=117]
+[ext_resource path="res://camara2/framecam1_20200628_0051.jpg" type="Texture" id=118]
+[ext_resource path="res://camara2/framecam1_20200628_0056.jpg" type="Texture" id=119]
+[ext_resource path="res://camara2/framecam1_20200628_0042.jpg" type="Texture" id=120]
+[ext_resource path="res://camara2/framecam1_20200628_0050.jpg" type="Texture" id=121]
+[ext_resource path="res://camara2/framecam1_20200628_0055.jpg" type="Texture" id=122]
+[ext_resource path="res://camara2/framecam1_20200628_0057.jpg" type="Texture" id=123]
+[ext_resource path="res://camara2/framecam1_20200628_0054.jpg" type="Texture" id=124]
+[ext_resource path="res://camara2/framecam1_20200628_0036.jpg" type="Texture" id=125]
+[ext_resource path="res://camara2/framecam1_20200628_0043.jpg" type="Texture" id=126]
+[ext_resource path="res://camara2/framecam1_20200628_0048.jpg" type="Texture" id=127]
+[ext_resource path="res://camara2/framecam1_20200628_0058.jpg" type="Texture" id=128]
+[ext_resource path="res://camara2/framecam1_20200628_0052.jpg" type="Texture" id=129]
+[ext_resource path="res://camara2/framecam1_20200628_0045.jpg" type="Texture" id=130]
+[ext_resource path="res://camara2/framecam1_20200628_0059.jpg" type="Texture" id=131]
+[ext_resource path="res://camara2/framecam1_20200628_0039.jpg" type="Texture" id=132]
+[ext_resource path="res://camara2/framecam1_20200628_0034.jpg" type="Texture" id=133]
+[ext_resource path="res://camara2/framecam1_20200628_0041.jpg" type="Texture" id=134]
+[ext_resource path="res://camara2/framecam1_20200628_0061.jpg" type="Texture" id=135]
+[ext_resource path="res://camara2/framecam1_20200628_0044.jpg" type="Texture" id=136]
+[ext_resource path="res://camara2/framecam1_20200628_0062.jpg" type="Texture" id=137]
+[ext_resource path="res://camara2/framecam1_20200628_0035.jpg" type="Texture" id=138]
+[ext_resource path="res://camara2/framecam1_20200628_0047.jpg" type="Texture" id=139]
+[ext_resource path="res://camara2/framecam1_20200628_0037.jpg" type="Texture" id=140]
+[ext_resource path="res://camara2/framecam1_20200628_0064.jpg" type="Texture" id=141]
+[ext_resource path="res://camara2/framecam1_20200628_0053.jpg" type="Texture" id=142]
+[ext_resource path="res://camara2/framecam1_20200628_0060.jpg" type="Texture" id=143]
+[ext_resource path="res://camara2/framecam1_20200628_0049.jpg" type="Texture" id=144]
+[ext_resource path="res://camara2/framecam1_20200628_0063.jpg" type="Texture" id=145]
+[ext_resource path="res://spritesterror/n6.jpg" type="Texture" id=146]
+[ext_resource path="res://spritesterror/n15.jpg" type="Texture" id=147]
+[ext_resource path="res://spritesterror/n3.jpg" type="Texture" id=148]
+[ext_resource path="res://spritesterror/n16.jpg" type="Texture" id=149]
+[ext_resource path="res://spritesterror/n19.jpg" type="Texture" id=150]
+[ext_resource path="res://spritesterror/n20.jpg" type="Texture" id=151]
+[ext_resource path="res://spritesterror/n21.jpg" type="Texture" id=152]
+[ext_resource path="res://spritesterror/n24.jpg" type="Texture" id=153]
+[ext_resource path="res://spritesterror/n9.jpg" type="Texture" id=154]
+[ext_resource path="res://spritesterror/n2.jpg" type="Texture" id=155]
+[ext_resource path="res://spritesterror/n30.jpg" type="Texture" id=156]
+[ext_resource path="res://spritesterror/n23.jpg" type="Texture" id=157]
+[ext_resource path="res://spritesterror/n13.jpg" type="Texture" id=158]
+[ext_resource path="res://spritesterror/n17.jpg" type="Texture" id=159]
+[ext_resource path="res://spritesterror/n8.jpg" type="Texture" id=160]
+[ext_resource path="res://spritesterror/n22.jpg" type="Texture" id=161]
+[ext_resource path="res://spritesterror/n25.jpg" type="Texture" id=162]
+[ext_resource path="res://spritesterror/n28.jpg" type="Texture" id=163]
+[ext_resource path="res://spritesterror/n10.jpg" type="Texture" id=164]
+[ext_resource path="res://spritesterror/n27.jpg" type="Texture" id=165]
+[ext_resource path="res://spritesterror/n26.jpg" type="Texture" id=166]
+[ext_resource path="res://spritesterror/n5.jpg" type="Texture" id=167]
+[ext_resource path="res://spritesterror/n7.jpg" type="Texture" id=168]
+[ext_resource path="res://spritesterror/n1.jpg" type="Texture" id=169]
+[ext_resource path="res://spritesterror/n14.jpg" type="Texture" id=170]
+[ext_resource path="res://spritesterror/n4.jpg" type="Texture" id=171]
+[ext_resource path="res://spritesterror/n18.jpg" type="Texture" id=172]
+[ext_resource path="res://spritesterror/n29.jpg" type="Texture" id=173]
+[ext_resource path="res://spritesterror/n11.jpg" type="Texture" id=174]
+[ext_resource path="res://filtrosterror/fondonegro.png" type="Texture" id=175]
+[ext_resource path="res://spritesterror/n12.jpg" type="Texture" id=176]
+[ext_resource path="res://spritesterror/n32.jpg" type="Texture" id=177]
+[ext_resource path="res://spritesterror/n33.jpg" type="Texture" id=178]
+[ext_resource path="res://spritesterror/n36.jpg" type="Texture" id=179]
+[ext_resource path="res://spritesterror/n37.jpg" type="Texture" id=180]
+[ext_resource path="res://spritesterror/n38.jpg" type="Texture" id=181]
+[ext_resource path="res://spritesterror/n40.jpg" type="Texture" id=182]
+[ext_resource path="res://spritesterror/n41.jpg" type="Texture" id=183]
+[ext_resource path="res://spritesterror/n42.jpg" type="Texture" id=184]
+[ext_resource path="res://spritesterror/n31.jpg" type="Texture" id=185]
+[ext_resource path="res://spritesterror/n34.jpg" type="Texture" id=186]
+[ext_resource path="res://spritesterror/n39.jpg" type="Texture" id=187]
+[ext_resource path="res://spritesterror/n43.jpg" type="Texture" id=188]
+[ext_resource path="res://spritesterror/n35.jpg" type="Texture" id=189]
+[ext_resource path="res://spritesterror/n68.jpg" type="Texture" id=190]
+[ext_resource path="res://spritesterror/n60.jpg" type="Texture" id=191]
+[ext_resource path="res://spritesterror/n73.jpg" type="Texture" id=192]
+[ext_resource path="res://spritesterror/n69.jpg" type="Texture" id=193]
+[ext_resource path="res://spritesterror/n71.jpg" type="Texture" id=194]
+[ext_resource path="res://spritesterror/n75.jpg" type="Texture" id=195]
+[ext_resource path="res://spritesterror/n59.jpg" type="Texture" id=196]
+[ext_resource path="res://spritesterror/n45.jpg" type="Texture" id=197]
+[ext_resource path="res://spritesterror/n48.jpg" type="Texture" id=198]
+[ext_resource path="res://spritesterror/n65.jpg" type="Texture" id=199]
+[ext_resource path="res://spritesterror/n66.jpg" type="Texture" id=200]
+[ext_resource path="res://spritesterror/n50.jpg" type="Texture" id=201]
+[ext_resource path="res://spritesterror/n67.jpg" type="Texture" id=202]
+[ext_resource path="res://spritesterror/n70.jpg" type="Texture" id=203]
+[ext_resource path="res://spritesterror/n72.jpg" type="Texture" id=204]
+[ext_resource path="res://spritesterror/n76.jpg" type="Texture" id=205]
+[ext_resource path="res://spritesterror/n47.jpg" type="Texture" id=206]
+[ext_resource path="res://spritesterror/n46.jpg" type="Texture" id=207]
+[ext_resource path="res://spritesterror/n62.jpg" type="Texture" id=208]
+[ext_resource path="res://spritesterror/n56.jpg" type="Texture" id=209]
+[ext_resource path="res://spritesterror/n51.jpg" type="Texture" id=210]
+[ext_resource path="res://spritesterror/n52.jpg" type="Texture" id=211]
+[ext_resource path="res://spritesterror/n74.jpg" type="Texture" id=212]
+[ext_resource path="res://spritesterror/n64.jpg" type="Texture" id=213]
+[ext_resource path="res://spritesterror/n77.jpg" type="Texture" id=214]
+[ext_resource path="res://spritesterror/n44.jpg" type="Texture" id=215]
+[ext_resource path="res://spritesterror/n58.jpg" type="Texture" id=216]
+[ext_resource path="res://spritesterror/n53.jpg" type="Texture" id=217]
+[ext_resource path="res://spritesterror/n57.jpg" type="Texture" id=218]
+[ext_resource path="res://spritesterror/n63.jpg" type="Texture" id=219]
+[ext_resource path="res://spritesterror/n49.jpg" type="Texture" id=220]
+[ext_resource path="res://spritesterror/n61.jpg" type="Texture" id=221]
+[ext_resource path="res://spritesterror/n106.jpg" type="Texture" id=222]
+[ext_resource path="res://spritesterror/n108.jpg" type="Texture" id=223]
+[ext_resource path="res://spritesterror/n90.jpg" type="Texture" id=224]
+[ext_resource path="res://spritesterror/n93.jpg" type="Texture" id=225]
+[ext_resource path="res://spritesterror/n97.jpg" type="Texture" id=226]
+[ext_resource path="res://spritesterror/n81.jpg" type="Texture" id=227]
+[ext_resource path="res://spritesterror/n88.jpg" type="Texture" id=228]
+[ext_resource path="res://spritesterror/n103.jpg" type="Texture" id=229]
+[ext_resource path="res://spritesterror/n107.jpg" type="Texture" id=230]
+[ext_resource path="res://spritesterror/n109.jpg" type="Texture" id=231]
+[ext_resource path="res://spritesterror/n89.jpg" type="Texture" id=232]
+[ext_resource path="res://spritesterror/n83.jpg" type="Texture" id=233]
+[ext_resource path="res://spritesterror/n91.jpg" type="Texture" id=234]
+[ext_resource path="res://spritesterror/n96.jpg" type="Texture" id=235]
+[ext_resource path="res://spritesterror/n99.jpg" type="Texture" id=236]
+[ext_resource path="res://spritesterror/n94.jpg" type="Texture" id=237]
+[ext_resource path="res://spritesterror/n101.jpg" type="Texture" id=238]
+[ext_resource path="res://spritesterror/n102.jpg" type="Texture" id=239]
+[ext_resource path="res://spritesterror/n78.jpg" type="Texture" id=240]
+[ext_resource path="res://spritesterror/n82.jpg" type="Texture" id=241]
+[ext_resource path="res://spritesterror/n86.jpg" type="Texture" id=242]
+[ext_resource path="res://spritesterror/n95.jpg" type="Texture" id=243]
+[ext_resource path="res://spritesterror/n80.jpg" type="Texture" id=244]
+[ext_resource path="res://spritesterror/n87.jpg" type="Texture" id=245]
+[ext_resource path="res://spritesterror/n85.jpg" type="Texture" id=246]
+[ext_resource path="res://spritesterror/n79.jpg" type="Texture" id=247]
+[ext_resource path="res://spritesterror/n92.jpg" type="Texture" id=248]
+[ext_resource path="res://spritesterror/n98.jpg" type="Texture" id=249]
+[ext_resource path="res://spritesterror/n100.jpg" type="Texture" id=250]
+[ext_resource path="res://spritesterror/n104.jpg" type="Texture" id=251]
+[ext_resource path="res://spritesterror/n84.jpg" type="Texture" id=252]
+[ext_resource path="res://spritesterror/n105.jpg" type="Texture" id=253]
+[ext_resource path="res://spritesterror/n118.jpg" type="Texture" id=254]
+[ext_resource path="res://spritesterror/n122.jpg" type="Texture" id=255]
+[ext_resource path="res://spritesterror/n131.jpg" type="Texture" id=256]
+[ext_resource path="res://spritesterror/n134.jpg" type="Texture" id=257]
+[ext_resource path="res://spritesterror/n115.jpg" type="Texture" id=258]
+[ext_resource path="res://spritesterror/n125.jpg" type="Texture" id=259]
+[ext_resource path="res://spritesterror/n128.jpg" type="Texture" id=260]
+[ext_resource path="res://spritesterror/n116.jpg" type="Texture" id=261]
+[ext_resource path="res://spritesterror/n129.jpg" type="Texture" id=262]
+[ext_resource path="res://spritesterror/n126.jpg" type="Texture" id=263]
+[ext_resource path="res://spritesterror/n132.jpg" type="Texture" id=264]
+[ext_resource path="res://spritesterror/n135.jpg" type="Texture" id=265]
+[ext_resource path="res://spritesterror/n137.jpg" type="Texture" id=266]
+[ext_resource path="res://spritesterror/n130.jpg" type="Texture" id=267]
+[ext_resource path="res://spritesterror/n117.jpg" type="Texture" id=268]
+[ext_resource path="res://spritesterror/n119.jpg" type="Texture" id=269]
+[ext_resource path="res://spritesterror/n133.jpg" type="Texture" id=270]
+[ext_resource path="res://spritesterror/n112.jpg" type="Texture" id=271]
+[ext_resource path="res://spritesterror/n139.jpg" type="Texture" id=272]
+[ext_resource path="res://spritesterror/n140.jpg" type="Texture" id=273]
+[ext_resource path="res://spritesterror/n141.jpg" type="Texture" id=274]
+[ext_resource path="res://spritesterror/n110.jpg" type="Texture" id=275]
+[ext_resource path="res://spritesterror/n127.jpg" type="Texture" id=276]
+[ext_resource path="res://spritesterror/n111.jpg" type="Texture" id=277]
+[ext_resource path="res://spritesterror/n136.jpg" type="Texture" id=278]
+[ext_resource path="res://spritesterror/n113.jpg" type="Texture" id=279]
+[ext_resource path="res://spritesterror/n120.jpg" type="Texture" id=280]
+[ext_resource path="res://spritesterror/n124.jpg" type="Texture" id=281]
+[ext_resource path="res://spritesterror/n138.jpg" type="Texture" id=282]
+[ext_resource path="res://spritesterror/n114.jpg" type="Texture" id=283]
+[ext_resource path="res://spritesterror/n121.jpg" type="Texture" id=284]
+[ext_resource path="res://spritesterror/n123.jpg" type="Texture" id=285]
+[ext_resource path="res://spritesterror/n143.jpg" type="Texture" id=286]
+[ext_resource path="res://spritesterror/n142.jpg" type="Texture" id=287]
+[ext_resource path="res://spritesterror/n144.jpg" type="Texture" id=288]
+[ext_resource path="res://filtrosterror/arbolcamara2.png" type="Texture" id=289]
+[ext_resource path="res://filtrosterror/filytocamara.png" type="Texture" id=290]
+[ext_resource path="res://filtrosterror/filromiedo.png" type="Texture" id=291]
+[ext_resource path="res://filtrosterror/n146botellamanzana.png" type="Texture" id=292]
+[ext_resource path="res://tcam2.gd" type="Script" id=293]
+[ext_resource path="res://filtrosterror/espirtiucamara1.png" type="Texture" id=294]
+[ext_resource path="res://filtrosterror/espiritu2camara1.png" type="Texture" id=295]
+[ext_resource path="res://filtrosterror/n145botellacocacola.png" type="Texture" id=296]
+[ext_resource path="res://arbol.gd" type="Script" id=297]
+[ext_resource path="res://jugabilidad.gd" type="Script" id=298]
+[ext_resource path="res://CAMARA1.gd" type="Script" id=299]
+[ext_resource path="res://CAMARA2.gd" type="Script" id=300]
+[ext_resource path="res://FILTROS.gd" type="Script" id=301]
+[ext_resource path="res://textos1.gd" type="Script" id=302]
+[ext_resource path="res://tiempo1.gd" type="Script" id=303]
+[ext_resource path="res://filtrosterror/vacio.png" type="Texture" id=304]
+[ext_resource path="res://fondo.gd" type="Script" id=305]
+[ext_resource path="res://LFAX.TTF" type="DynamicFontData" id=306]
+[ext_resource path="res://filtrosterror/allende.png" type="Texture" id=307]
+[ext_resource path="res://camraf.gd" type="Script" id=308]
+[ext_resource path="res://tcam1.gd" type="Script" id=309]
+[ext_resource path="res://filtrosterror/pinypooh.png" type="Texture" id=310]
+[ext_resource path="res://filtrosterror/twightlightpigglet.png" type="Texture" id=311]
+[ext_resource path="res://filtrosterror/controles.png" type="Texture" id=312]
+[ext_resource path="res://ponys.gd" type="Script" id=313]
+[ext_resource path="res://pony2.gd" type="Script" id=314]
+[ext_resource path="res://tiempo.gd" type="Script" id=315]
+[ext_resource path="res://azar.gd" type="Script" id=316]
+[ext_resource path="res://pigglet.gd" type="Script" id=317]
+[ext_resource path="res://pooh.gd" type="Script" id=318]
+[ext_resource path="res://puntos.gd" type="Script" id=319]
+[ext_resource path="res://tiempol.gd" type="Script" id=320]
+[ext_resource path="res://segundt.gd" type="Script" id=321]
+[ext_resource path="res://filtrosterror/part2.png" type="Texture" id=322]
+[ext_resource path="res://arco1.gd" type="Script" id=323]
+[ext_resource path="res://filtrosterror/part1.png" type="Texture" id=324]
+[ext_resource path="res://arco2.gd" type="Script" id=325]
+[ext_resource path="res://sonidos/A3 ft Marie Ork remastered.wav" type="AudioStream" id=326]
+[ext_resource path="res://sonidos/pajaros.wav" type="AudioStream" id=327]
+[ext_resource path="res://sonidos/cuchillo.ogg" type="AudioStream" id=328]
+[ext_resource path="res://sonidos/camion.ogg" type="AudioStream" id=329]
+[ext_resource path="res://sonidos/CANGREJO.ogg" type="AudioStream" id=330]
+[ext_resource path="res://sonidos/Pumk 2 remastered.wav" type="AudioStream" id=331]
+[ext_resource path="res://sonidos/R24 Remastered.wav" type="AudioStream" id=332]
+[ext_resource path="res://sonidos/R11 Nightcore.ogg" type="AudioStream" id=333]
+[ext_resource path="res://sonidos/R11 remastered.wav" type="AudioStream" id=334]
+[ext_resource path="res://sonidos/R28 remastered.wav" type="AudioStream" id=335]
+[ext_resource path="res://sonidos/R10 ft. Marie Ork #RetoLofi.wav" type="AudioStream" id=336]
+[ext_resource path="res://sonidos/relojder2.ogg" type="AudioStream" id=337]
+[ext_resource path="res://sonidos/tension.ogg" type="AudioStream" id=338]
+[ext_resource path="res://sonidos/relojatrasiz.ogg" type="AudioStream" id=339]
+[ext_resource path="res://sonidos/scramer.wav" type="AudioStream" id=340]
+[ext_resource path="res://sonidos/relojder.ogg" type="AudioStream" id=341]
+[ext_resource path="res://sonidos/rleojizqui.ogg" type="AudioStream" id=342]
+[ext_resource path="res://rtrasiz.gd" type="Script" id=343]
+[ext_resource path="res://zarpado.gd" type="Script" id=344]
+[ext_resource path="res://final.gd" type="Script" id=345]
+[ext_resource path="res://sorpresa.gd" type="Script" id=346]
+[ext_resource path="res://H2.gd" type="Script" id=347]
+[ext_resource path="res://screamo.gd" type="Script" id=348]
+[ext_resource path="res://pintanightcore.gd" type="Script" id=349]
+[ext_resource path="res://tranquilo.gd" type="Script" id=350]
+[ext_resource path="res://rder2.gd" type="Script" id=351]
+[ext_resource path="res://rder.gd" type="Script" id=352]
+[ext_resource path="res://pinta.gd" type="Script" id=353]
+[ext_resource path="res://H4.gd" type="Script" id=354]
+[ext_resource path="res://H1.gd" type="Script" id=355]
+[ext_resource path="res://camion.gd" type="Script" id=356]
+[ext_resource path="res://riz.gd" type="Script" id=357]
+[ext_resource path="res://pajaritos.gd" type="Script" id=358]
+[ext_resource path="res://cuchillo.gd" type="Script" id=359]
+[ext_resource path="res://trucos/framecam1_20200628_0019.jpg" type="Texture" id=360]
+[ext_resource path="res://trucos/soundtruck.png" type="Texture" id=361]
+[ext_resource path="res://trucos/arboldedecisiones.png" type="Texture" id=362]
+[ext_resource path="res://Suave/n46.jpg" type="Texture" id=363]
+[ext_resource path="res://trucos/listatrucos.png" type="Texture" id=364]
+[ext_resource path="res://trucos/allende.png" type="Texture" id=365]
+[ext_resource path="res://Suave/n47.jpg" type="Texture" id=366]
+[ext_resource path="res://Suave/n43.jpg" type="Texture" id=367]
+[ext_resource path="res://Suave/n42.jpg" type="Texture" id=368]
+[ext_resource path="res://Suave/n45.jpg" type="Texture" id=369]
+[ext_resource path="res://Suave/n44.jpg" type="Texture" id=370]
+[ext_resource path="res://Suave/n8.jpg" type="Texture" id=371]
+[ext_resource path="res://Suave/n11.jpg" type="Texture" id=372]
+[ext_resource path="res://Suave/n17.jpg" type="Texture" id=373]
+[ext_resource path="res://Suave/n21.jpg" type="Texture" id=374]
+[ext_resource path="res://Suave/n24.jpg" type="Texture" id=375]
+[ext_resource path="res://Suave/n12.jpg" type="Texture" id=376]
+[ext_resource path="res://Suave/n14.jpg" type="Texture" id=377]
+[ext_resource path="res://Suave/n35.jpg" type="Texture" id=378]
+[ext_resource path="res://Suave/n10.jpg" type="Texture" id=379]
+[ext_resource path="res://Suave/n27.jpg" type="Texture" id=380]
+[ext_resource path="res://Suave/n33.jpg" type="Texture" id=381]
+[ext_resource path="res://Suave/n7.jpg" type="Texture" id=382]
+[ext_resource path="res://Suave/n31.jpg" type="Texture" id=383]
+[ext_resource path="res://Suave/n18.jpg" type="Texture" id=384]
+[ext_resource path="res://Suave/n36.jpg" type="Texture" id=385]
+[ext_resource path="res://Suave/n37.jpg" type="Texture" id=386]
+[ext_resource path="res://Suave/n6.jpg" type="Texture" id=387]
+[ext_resource path="res://Suave/n30.jpg" type="Texture" id=388]
+[ext_resource path="res://Suave/n9.jpg" type="Texture" id=389]
+[ext_resource path="res://Suave/n25.jpg" type="Texture" id=390]
+[ext_resource path="res://Suave/n19.jpg" type="Texture" id=391]
+[ext_resource path="res://Suave/n22.jpg" type="Texture" id=392]
+[ext_resource path="res://Suave/n16.jpg" type="Texture" id=393]
+[ext_resource path="res://Suave/n23.jpg" type="Texture" id=394]
+[ext_resource path="res://Suave/n26.jpg" type="Texture" id=395]
+[ext_resource path="res://Suave/n13.jpg" type="Texture" id=396]
+[ext_resource path="res://Suave/n29.jpg" type="Texture" id=397]
+[ext_resource path="res://Suave/n28.jpg" type="Texture" id=398]
+[ext_resource path="res://Suave/n15.jpg" type="Texture" id=399]
+[ext_resource path="res://Suave/n32.jpg" type="Texture" id=400]
+[ext_resource path="res://Suave/n20.jpg" type="Texture" id=401]
+[ext_resource path="res://Suave/n34.jpg" type="Texture" id=402]
+[ext_resource path="res://Suave/n38.jpg" type="Texture" id=403]
+[ext_resource path="res://Suave/n39.jpg" type="Texture" id=404]
+[ext_resource path="res://Suave/n40.jpg" type="Texture" id=405]
+[ext_resource path="res://Suave/n41.jpg" type="Texture" id=406]
+[ext_resource path="res://Suave/n1.jpg" type="Texture" id=407]
+[ext_resource path="res://Suave/n2.jpg" type="Texture" id=408]
+[ext_resource path="res://Suave/n4.jpg" type="Texture" id=409]
+[ext_resource path="res://Suave/n3.jpg" type="Texture" id=410]
+[ext_resource path="res://Suave/n5.jpg" type="Texture" id=411]
+[ext_resource path="res://Suave/n80.jpg" type="Texture" id=412]
+[ext_resource path="res://Suave/n60.jpg" type="Texture" id=413]
+[ext_resource path="res://Suave/n81.jpg" type="Texture" id=414]
+[ext_resource path="res://Suave/n73.jpg" type="Texture" id=415]
+[ext_resource path="res://Suave/n71.jpg" type="Texture" id=416]
+[ext_resource path="res://Suave/n62.jpg" type="Texture" id=417]
+[ext_resource path="res://Suave/n63.jpg" type="Texture" id=418]
+[ext_resource path="res://Suave/n76.jpg" type="Texture" id=419]
+[ext_resource path="res://Suave/n51.jpg" type="Texture" id=420]
+[ext_resource path="res://Suave/n58.jpg" type="Texture" id=421]
+[ext_resource path="res://Suave/n77.jpg" type="Texture" id=422]
+[ext_resource path="res://Suave/n57.jpg" type="Texture" id=423]
+[ext_resource path="res://Suave/n79.jpg" type="Texture" id=424]
+[ext_resource path="res://Suave/n64.jpg" type="Texture" id=425]
+[ext_resource path="res://Suave/n56.jpg" type="Texture" id=426]
+[ext_resource path="res://Suave/n66.jpg" type="Texture" id=427]
+[ext_resource path="res://Suave/n67.jpg" type="Texture" id=428]
+[ext_resource path="res://Suave/n65.jpg" type="Texture" id=429]
+[ext_resource path="res://Suave/n70.jpg" type="Texture" id=430]
+[ext_resource path="res://Suave/n49.jpg" type="Texture" id=431]
+[ext_resource path="res://Suave/n68.jpg" type="Texture" id=432]
+[ext_resource path="res://Suave/n53.jpg" type="Texture" id=433]
+[ext_resource path="res://Suave/n48.jpg" type="Texture" id=434]
+[ext_resource path="res://Suave/n72.jpg" type="Texture" id=435]
+[ext_resource path="res://Suave/n74.jpg" type="Texture" id=436]
+[ext_resource path="res://Suave/n75.jpg" type="Texture" id=437]
+[ext_resource path="res://Suave/n61.jpg" type="Texture" id=438]
+[ext_resource path="res://Suave/n69.jpg" type="Texture" id=439]
+[ext_resource path="res://Suave/n59.jpg" type="Texture" id=440]
+[ext_resource path="res://Suave/n78.jpg" type="Texture" id=441]
+[ext_resource path="res://Suave/n50.jpg" type="Texture" id=442]
+[ext_resource path="res://Suave/n52.jpg" type="Texture" id=443]
+[ext_resource path="res://Suave/n102.jpg" type="Texture" id=444]
+[ext_resource path="res://Suave/n100.jpg" type="Texture" id=445]
+[ext_resource path="res://Suave/n113.jpg" type="Texture" id=446]
+[ext_resource path="res://Suave/n87.jpg" type="Texture" id=447]
+[ext_resource path="res://Suave/n82.jpg" type="Texture" id=448]
+[ext_resource path="res://Suave/n97.jpg" type="Texture" id=449]
+[ext_resource path="res://Suave/n104.jpg" type="Texture" id=450]
+[ext_resource path="res://Suave/n91.jpg" type="Texture" id=451]
+[ext_resource path="res://Suave/n103.jpg" type="Texture" id=452]
+[ext_resource path="res://Suave/n93.jpg" type="Texture" id=453]
+[ext_resource path="res://Suave/n88.jpg" type="Texture" id=454]
+[ext_resource path="res://Suave/n99.jpg" type="Texture" id=455]
+[ext_resource path="res://Suave/n108.jpg" type="Texture" id=456]
+[ext_resource path="res://Suave/n85.jpg" type="Texture" id=457]
+[ext_resource path="res://Suave/n98.jpg" type="Texture" id=458]
+[ext_resource path="res://Suave/n86.jpg" type="Texture" id=459]
+[ext_resource path="res://Suave/n94.jpg" type="Texture" id=460]
+[ext_resource path="res://Suave/n101.jpg" type="Texture" id=461]
+[ext_resource path="res://Suave/n83.jpg" type="Texture" id=462]
+[ext_resource path="res://Suave/n106.jpg" type="Texture" id=463]
+[ext_resource path="res://Suave/n90.jpg" type="Texture" id=464]
+[ext_resource path="res://Suave/n84.jpg" type="Texture" id=465]
+[ext_resource path="res://Suave/n89.jpg" type="Texture" id=466]
+[ext_resource path="res://Suave/n107.jpg" type="Texture" id=467]
+[ext_resource path="res://Suave/n109.jpg" type="Texture" id=468]
+[ext_resource path="res://Suave/n92.jpg" type="Texture" id=469]
+[ext_resource path="res://Suave/n110.jpg" type="Texture" id=470]
+[ext_resource path="res://Suave/n96.jpg" type="Texture" id=471]
+[ext_resource path="res://Suave/n111.jpg" type="Texture" id=472]
+[ext_resource path="res://Suave/n95.jpg" type="Texture" id=473]
+[ext_resource path="res://Suave/n112.jpg" type="Texture" id=474]
+[ext_resource path="res://Suave/n105.jpg" type="Texture" id=475]
+[ext_resource path="res://Suave/n116.jpg" type="Texture" id=476]
+[ext_resource path="res://Suave/n144.jpg" type="Texture" id=477]
+[ext_resource path="res://Suave/n119.jpg" type="Texture" id=478]
+[ext_resource path="res://Suave/n141.jpg" type="Texture" id=479]
+[ext_resource path="res://Suave/n129.jpg" type="Texture" id=480]
+[ext_resource path="res://Suave/n120.jpg" type="Texture" id=481]
+[ext_resource path="res://Suave/n115.jpg" type="Texture" id=482]
+[ext_resource path="res://Suave/n126.jpg" type="Texture" id=483]
+[ext_resource path="res://Suave/n122.jpg" type="Texture" id=484]
+[ext_resource path="res://Suave/n114.jpg" type="Texture" id=485]
+[ext_resource path="res://Suave/n140.jpg" type="Texture" id=486]
+[ext_resource path="res://Suave/n118.jpg" type="Texture" id=487]
+[ext_resource path="res://Suave/n130.jpg" type="Texture" id=488]
+[ext_resource path="res://Suave/n127.jpg" type="Texture" id=489]
+[ext_resource path="res://Suave/n137.jpg" type="Texture" id=490]
+[ext_resource path="res://Suave/n143.jpg" type="Texture" id=491]
+[ext_resource path="res://Suave/n124.jpg" type="Texture" id=492]
+[ext_resource path="res://Suave/n128.jpg" type="Texture" id=493]
+[ext_resource path="res://Suave/n131.jpg" type="Texture" id=494]
+[ext_resource path="res://Suave/n123.jpg" type="Texture" id=495]
+[ext_resource path="res://Suave/n133.jpg" type="Texture" id=496]
+[ext_resource path="res://Suave/n134.jpg" type="Texture" id=497]
+[ext_resource path="res://Suave/n125.jpg" type="Texture" id=498]
+[ext_resource path="res://Suave/n132.jpg" type="Texture" id=499]
+[ext_resource path="res://Suave/n135.jpg" type="Texture" id=500]
+[ext_resource path="res://Suave/n136.jpg" type="Texture" id=501]
+[ext_resource path="res://Suave/n138.jpg" type="Texture" id=502]
+[ext_resource path="res://Suave/n139.jpg" type="Texture" id=503]
+[ext_resource path="res://Suave/n117.jpg" type="Texture" id=504]
+[ext_resource path="res://Suave/n121.jpg" type="Texture" id=505]
+[ext_resource path="res://Suave/n142.jpg" type="Texture" id=506]
+[ext_resource path="res://trucos/btouch.png" type="Texture" id=507]
+[ext_resource path="res://tizquierda.gd" type="Script" id=508]
+[ext_resource path="res://tderecha.gd" type="Script" id=509]
+[ext_resource path="res://jarbajo.gd" type="Script" id=510]
+[ext_resource path="res://jderecha.gd" type="Script" id=511]
+[ext_resource path="res://jarriba.gd" type="Script" id=512]
+[ext_resource path="res://jizquierda.gd" type="Script" id=513]
+[ext_resource path="res://caballo.gd" type="Script" id=514]
+[ext_resource path="res://trucos/caballo.ogg" type="AudioStream" id=515]
+[ext_resource path="res://rock/rc5.png" type="Texture" id=516]
+[ext_resource path="res://rock/rec2.png" type="Texture" id=517]
+[ext_resource path="res://rock/rc1.png" type="Texture" id=518]
+[ext_resource path="res://rock/rec4.png" type="Texture" id=519]
+[ext_resource path="res://rock/rc9.png" type="Texture" id=520]
+[ext_resource path="res://rock/rec3.png" type="Texture" id=521]
+[ext_resource path="res://rock/rc6.png" type="Texture" id=522]
+[ext_resource path="res://rock/rc7.png" type="Texture" id=523]
+[ext_resource path="res://rock/rc8.png" type="Texture" id=524]
+[ext_resource path="res://rock/inter.png" type="Texture" id=525]
+[ext_resource path="res://rock.gd" type="Script" id=526]
+[ext_resource path="res://rock/rocknchile.ogg" type="AudioStream" id=527]
+
+[sub_resource type="SpriteFrames" id=1]
+animations = [ {
+"frames": [ ExtResource( 175 ) ],
+"loop": true,
+"name": "default",
+"speed": 5.0
+} ]
+
+[sub_resource type="SpriteFrames" id=2]
+animations = [ {
+"frames": [ ExtResource( 175 ), ExtResource( 407 ), ExtResource( 408 ), ExtResource( 410 ), ExtResource( 409 ), ExtResource( 411 ), ExtResource( 387 ), ExtResource( 382 ), ExtResource( 371 ), ExtResource( 389 ), ExtResource( 379 ), ExtResource( 372 ), ExtResource( 376 ), ExtResource( 396 ), ExtResource( 377 ), ExtResource( 399 ), ExtResource( 393 ), ExtResource( 373 ), ExtResource( 384 ), ExtResource( 391 ), ExtResource( 401 ), ExtResource( 374 ), ExtResource( 392 ), ExtResource( 394 ), ExtResource( 375 ), ExtResource( 390 ), ExtResource( 395 ), ExtResource( 380 ), ExtResource( 398 ), ExtResource( 397 ), ExtResource( 388 ), ExtResource( 383 ), ExtResource( 400 ), ExtResource( 381 ), ExtResource( 402 ), ExtResource( 378 ), ExtResource( 385 ), ExtResource( 386 ), ExtResource( 403 ), ExtResource( 404 ), ExtResource( 405 ), ExtResource( 406 ), ExtResource( 368 ), ExtResource( 367 ), ExtResource( 370 ), ExtResource( 369 ), ExtResource( 363 ), ExtResource( 366 ), ExtResource( 434 ), ExtResource( 431 ), ExtResource( 442 ), ExtResource( 420 ), ExtResource( 443 ), ExtResource( 433 ), ExtResource( 426 ), ExtResource( 423 ), ExtResource( 421 ), ExtResource( 440 ), ExtResource( 413 ), ExtResource( 438 ), ExtResource( 417 ), ExtResource( 418 ), ExtResource( 425 ), ExtResource( 429 ), ExtResource( 427 ), ExtResource( 428 ), ExtResource( 432 ), ExtResource( 439 ), ExtResource( 430 ), ExtResource( 416 ), ExtResource( 435 ), ExtResource( 415 ), ExtResource( 436 ), ExtResource( 437 ), ExtResource( 419 ), ExtResource( 422 ), ExtResource( 441 ), ExtResource( 424 ), ExtResource( 412 ), ExtResource( 414 ), ExtResource( 448 ), ExtResource( 462 ), ExtResource( 465 ), ExtResource( 457 ), ExtResource( 457 ), ExtResource( 457 ), ExtResource( 459 ), ExtResource( 447 ), ExtResource( 454 ), ExtResource( 466 ), ExtResource( 464 ), ExtResource( 451 ), ExtResource( 469 ), ExtResource( 453 ), ExtResource( 460 ), ExtResource( 473 ), ExtResource( 471 ), ExtResource( 449 ), ExtResource( 458 ), ExtResource( 455 ), ExtResource( 445 ), ExtResource( 461 ), ExtResource( 444 ), ExtResource( 452 ), ExtResource( 450 ), ExtResource( 475 ), ExtResource( 463 ), ExtResource( 467 ), ExtResource( 456 ), ExtResource( 468 ), ExtResource( 470 ), ExtResource( 472 ), ExtResource( 474 ), ExtResource( 446 ), ExtResource( 485 ), ExtResource( 482 ), ExtResource( 476 ), ExtResource( 504 ), ExtResource( 487 ), ExtResource( 478 ), ExtResource( 481 ), ExtResource( 505 ), ExtResource( 484 ), ExtResource( 495 ), ExtResource( 492 ), ExtResource( 498 ), ExtResource( 483 ), ExtResource( 489 ), ExtResource( 493 ), ExtResource( 480 ), ExtResource( 488 ), ExtResource( 494 ), ExtResource( 499 ), ExtResource( 496 ), ExtResource( 497 ), ExtResource( 500 ), ExtResource( 501 ), ExtResource( 490 ), ExtResource( 502 ), ExtResource( 503 ), ExtResource( 486 ), ExtResource( 479 ), ExtResource( 506 ), ExtResource( 491 ), ExtResource( 477 ) ],
+"loop": true,
+"name": "suave",
+"speed": 5.0
+}, {
+"frames": [ ExtResource( 175 ), ExtResource( 169 ), ExtResource( 155 ), ExtResource( 148 ), ExtResource( 171 ), ExtResource( 167 ), ExtResource( 146 ), ExtResource( 168 ), ExtResource( 160 ), ExtResource( 154 ), ExtResource( 164 ), ExtResource( 174 ), ExtResource( 176 ), ExtResource( 158 ), ExtResource( 170 ), ExtResource( 147 ), ExtResource( 149 ), ExtResource( 159 ), ExtResource( 172 ), ExtResource( 150 ), ExtResource( 151 ), ExtResource( 152 ), ExtResource( 161 ), ExtResource( 157 ), ExtResource( 153 ), ExtResource( 162 ), ExtResource( 166 ), ExtResource( 165 ), ExtResource( 163 ), ExtResource( 173 ), ExtResource( 156 ), ExtResource( 185 ), ExtResource( 177 ), ExtResource( 178 ), ExtResource( 186 ), ExtResource( 189 ), ExtResource( 179 ), ExtResource( 180 ), ExtResource( 181 ), ExtResource( 187 ), ExtResource( 182 ), ExtResource( 183 ), ExtResource( 184 ), ExtResource( 188 ), ExtResource( 215 ), ExtResource( 197 ), ExtResource( 207 ), ExtResource( 206 ), ExtResource( 198 ), ExtResource( 220 ), ExtResource( 201 ), ExtResource( 210 ), ExtResource( 211 ), ExtResource( 217 ), ExtResource( 209 ), ExtResource( 218 ), ExtResource( 216 ), ExtResource( 196 ), ExtResource( 191 ), ExtResource( 221 ), ExtResource( 208 ), ExtResource( 219 ), ExtResource( 213 ), ExtResource( 199 ), ExtResource( 200 ), ExtResource( 202 ), ExtResource( 190 ), ExtResource( 193 ), ExtResource( 203 ), ExtResource( 194 ), ExtResource( 204 ), ExtResource( 192 ), ExtResource( 212 ), ExtResource( 195 ), ExtResource( 205 ), ExtResource( 214 ), ExtResource( 240 ), ExtResource( 247 ), ExtResource( 244 ), ExtResource( 227 ), ExtResource( 241 ), ExtResource( 233 ), ExtResource( 252 ), ExtResource( 246 ), ExtResource( 246 ), ExtResource( 246 ), ExtResource( 242 ), ExtResource( 245 ), ExtResource( 228 ), ExtResource( 232 ), ExtResource( 224 ), ExtResource( 234 ), ExtResource( 248 ), ExtResource( 225 ), ExtResource( 237 ), ExtResource( 243 ), ExtResource( 235 ), ExtResource( 226 ), ExtResource( 249 ), ExtResource( 236 ), ExtResource( 250 ), ExtResource( 238 ), ExtResource( 239 ), ExtResource( 229 ), ExtResource( 251 ), ExtResource( 253 ), ExtResource( 222 ), ExtResource( 230 ), ExtResource( 223 ), ExtResource( 231 ), ExtResource( 275 ), ExtResource( 277 ), ExtResource( 271 ), ExtResource( 279 ), ExtResource( 283 ), ExtResource( 258 ), ExtResource( 261 ), ExtResource( 268 ), ExtResource( 254 ), ExtResource( 269 ), ExtResource( 280 ), ExtResource( 284 ), ExtResource( 255 ), ExtResource( 285 ), ExtResource( 281 ), ExtResource( 259 ), ExtResource( 263 ), ExtResource( 276 ), ExtResource( 260 ), ExtResource( 262 ), ExtResource( 267 ), ExtResource( 256 ), ExtResource( 264 ), ExtResource( 270 ), ExtResource( 257 ), ExtResource( 265 ), ExtResource( 278 ), ExtResource( 266 ), ExtResource( 282 ), ExtResource( 272 ), ExtResource( 273 ), ExtResource( 274 ), ExtResource( 287 ), ExtResource( 286 ), ExtResource( 288 ) ],
+"loop": true,
+"name": "ramas",
+"speed": 5.0
+} ]
+
+[sub_resource type="DynamicFont" id=3]
+font_data = ExtResource( 306 )
+
+[sub_resource type="SpriteFrames" id=4]
+animations = [ {
+"frames": [ ExtResource( 4 ), ExtResource( 5 ), ExtResource( 3 ), ExtResource( 6 ), ExtResource( 34 ), ExtResource( 9 ), ExtResource( 24 ), ExtResource( 29 ), ExtResource( 12 ), ExtResource( 10 ), ExtResource( 19 ), ExtResource( 30 ), ExtResource( 35 ), ExtResource( 14 ), ExtResource( 17 ), ExtResource( 20 ), ExtResource( 11 ), ExtResource( 32 ), ExtResource( 36 ), ExtResource( 25 ), ExtResource( 15 ), ExtResource( 37 ), ExtResource( 31 ), ExtResource( 33 ), ExtResource( 16 ), ExtResource( 7 ), ExtResource( 28 ), ExtResource( 8 ), ExtResource( 13 ), ExtResource( 18 ), ExtResource( 21 ), ExtResource( 22 ), ExtResource( 23 ), ExtResource( 26 ), ExtResource( 27 ), ExtResource( 38 ), ExtResource( 50 ), ExtResource( 46 ), ExtResource( 44 ), ExtResource( 45 ), ExtResource( 47 ), ExtResource( 39 ), ExtResource( 40 ), ExtResource( 48 ), ExtResource( 42 ), ExtResource( 49 ), ExtResource( 41 ), ExtResource( 43 ), ExtResource( 1 ), ExtResource( 2 ), ExtResource( 79 ), ExtResource( 64 ), ExtResource( 56 ), ExtResource( 63 ), ExtResource( 73 ), ExtResource( 58 ), ExtResource( 66 ), ExtResource( 55 ), ExtResource( 67 ), ExtResource( 77 ), ExtResource( 74 ), ExtResource( 65 ), ExtResource( 68 ), ExtResource( 78 ), ExtResource( 80 ), ExtResource( 75 ), ExtResource( 81 ), ExtResource( 51 ), ExtResource( 72 ), ExtResource( 53 ), ExtResource( 52 ), ExtResource( 71 ), ExtResource( 54 ), ExtResource( 59 ), ExtResource( 57 ), ExtResource( 60 ), ExtResource( 61 ), ExtResource( 62 ), ExtResource( 76 ), ExtResource( 69 ), ExtResource( 70 ) ],
+"loop": true,
+"name": "CAM1",
+"speed": 5.0
+}, {
+"frames": [ ExtResource( 365 ), ExtResource( 362 ), ExtResource( 360 ), ExtResource( 364 ), ExtResource( 361 ) ],
+"loop": true,
+"name": "trucazos",
+"speed": 5.0
+}, {
+"frames": [ ExtResource( 518 ), ExtResource( 517 ), ExtResource( 521 ), ExtResource( 519 ), ExtResource( 519 ), ExtResource( 525 ), ExtResource( 516 ), ExtResource( 516 ), ExtResource( 522 ), ExtResource( 523 ), ExtResource( 524 ), ExtResource( 520 ), ExtResource( 520 ), ExtResource( 524 ), ExtResource( 520 ), ExtResource( 524 ), ExtResource( 520 ), ExtResource( 524 ), ExtResource( 520 ), ExtResource( 524 ), ExtResource( 524 ), ExtResource( 520 ), ExtResource( 524 ), ExtResource( 523 ), ExtResource( 520 ), ExtResource( 520 ), ExtResource( 520 ), ExtResource( 520 ), ExtResource( 524 ), ExtResource( 520 ), ExtResource( 522 ), ExtResource( 525 ), ExtResource( 518 ), ExtResource( 518 ), ExtResource( 518 ), ExtResource( 518 ), ExtResource( 518 ), ExtResource( 518 ), ExtResource( 518 ), ExtResource( 518 ), ExtResource( 518 ) ],
+"loop": true,
+"name": "rock",
+"speed": 10.0
+} ]
+
+[sub_resource type="SpriteFrames" id=5]
+animations = [ {
+"frames": [ ExtResource( 105 ), ExtResource( 101 ), ExtResource( 113 ), ExtResource( 88 ), ExtResource( 102 ), ExtResource( 92 ), ExtResource( 82 ), ExtResource( 108 ), ExtResource( 106 ), ExtResource( 94 ), ExtResource( 93 ), ExtResource( 95 ), ExtResource( 104 ), ExtResource( 114 ), ExtResource( 97 ), ExtResource( 83 ), ExtResource( 90 ), ExtResource( 87 ), ExtResource( 86 ), ExtResource( 84 ), ExtResource( 96 ), ExtResource( 85 ), ExtResource( 89 ), ExtResource( 98 ), ExtResource( 99 ), ExtResource( 100 ), ExtResource( 91 ), ExtResource( 103 ), ExtResource( 107 ), ExtResource( 109 ), ExtResource( 110 ), ExtResource( 111 ), ExtResource( 112 ), ExtResource( 133 ), ExtResource( 138 ), ExtResource( 125 ), ExtResource( 140 ), ExtResource( 115 ), ExtResource( 132 ), ExtResource( 117 ), ExtResource( 134 ), ExtResource( 120 ), ExtResource( 126 ), ExtResource( 136 ), ExtResource( 130 ), ExtResource( 116 ), ExtResource( 139 ), ExtResource( 127 ), ExtResource( 144 ), ExtResource( 121 ), ExtResource( 118 ), ExtResource( 129 ), ExtResource( 142 ), ExtResource( 124 ), ExtResource( 122 ), ExtResource( 119 ), ExtResource( 123 ), ExtResource( 128 ), ExtResource( 131 ), ExtResource( 143 ), ExtResource( 135 ), ExtResource( 137 ), ExtResource( 145 ), ExtResource( 141 ) ],
+"loop": true,
+"name": "CAM2",
+"speed": 5.0
+} ]
+
+[sub_resource type="SpriteFrames" id=6]
+animations = [ {
+"frames": [ ExtResource( 290 ) ],
+"loop": true,
+"name": "default",
+"speed": 5.0
+} ]
+
+[sub_resource type="DynamicFont" id=7]
+size = 31
+font_data = ExtResource( 306 )
+
+[sub_resource type="SpriteFrames" id=8]
+animations = [ {
+"frames": [ ExtResource( 311 ) ],
+"loop": true,
+"name": "s1",
+"speed": 5.0
+} ]
+
+[sub_resource type="CapsuleShape2D" id=9]
+radius = 37.2681
+height = 0.277313
+
+[sub_resource type="CanvasItemMaterial" id=10]
+
+[sub_resource type="Gradient" id=11]
+offsets = PoolRealArray( 0, 0.923077, 0.971154, 1 )
+colors = PoolColorArray( 0, 0, 0, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1 )
+
+[sub_resource type="SpriteFrames" id=12]
+animations = [ {
+"frames": [ ExtResource( 310 ) ],
+"loop": true,
+"name": "p1",
+"speed": 5.0
+} ]
+
+[sub_resource type="CapsuleShape2D" id=13]
+radius = 31.2664
+height = 7.13626
+
+[sub_resource type="CanvasItemMaterial" id=14]
+
+[sub_resource type="Gradient" id=15]
+offsets = PoolRealArray( 0.0480769, 0.0673077, 0.865385, 0.923077, 0.932692, 0.951923, 0.961538, 0.980769, 0.990385, 1 )
+colors = PoolColorArray( 1, 1, 1, 1, 1, 1, 1, 0.927835, 0.931285, 0.927669, 0.927669, 0.0721649, 0, 0, 0, 0.762887, 0.92549, 0.921569, 0.921569, 0, 0.03125, 0.0301514, 0.0301514, 0.762887, 0, 0, 0, 0.730155, 0, 0, 0, 0.71134, 0.992549, 0.992157, 0.992157, 0.835052, 0.03125, 0.03125, 0.03125, 1 )
+
+[sub_resource type="SpriteFrames" id=16]
+animations = [ {
+"frames": [ ExtResource( 295 ) ],
+"loop": true,
+"name": "filtro2",
+"speed": 5.0
+}, {
+"frames": [ ExtResource( 294 ) ],
+"loop": true,
+"name": "filtro4",
+"speed": 5.0
+}, {
+"frames": [ ExtResource( 312 ) ],
+"loop": true,
+"name": "controles",
+"speed": 5.0
+}, {
+"frames": [ ExtResource( 289 ) ],
+"loop": true,
+"name": "filtro6",
+"speed": 5.0
+}, {
+"frames": [ ExtResource( 307 ) ],
+"loop": true,
+"name": "allende",
+"speed": 5.0
+}, {
+"frames": [ ExtResource( 290 ) ],
+"loop": true,
+"name": "filtro5",
+"speed": 5.0
+}, {
+"frames": [ ExtResource( 304 ), ExtResource( 304 ), ExtResource( 304 ), ExtResource( 304 ), ExtResource( 304 ), ExtResource( 304 ), ExtResource( 304 ), ExtResource( 304 ), ExtResource( 304 ), ExtResource( 304 ), ExtResource( 291 ), ExtResource( 304 ), ExtResource( 304 ), ExtResource( 304 ), ExtResource( 304 ), ExtResource( 304 ), ExtResource( 304 ), ExtResource( 304 ), ExtResource( 304 ), ExtResource( 304 ), ExtResource( 304 ), ExtResource( 304 ), ExtResource( 304 ), ExtResource( 304 ), ExtResource( 304 ), ExtResource( 304 ), ExtResource( 304 ), ExtResource( 304 ), ExtResource( 304 ), ExtResource( 304 ), ExtResource( 304 ), ExtResource( 304 ), ExtResource( 304 ), ExtResource( 304 ), ExtResource( 304 ), ExtResource( 304 ), ExtResource( 304 ), ExtResource( 304 ), ExtResource( 304 ), ExtResource( 304 ), ExtResource( 304 ), ExtResource( 291 ), ExtResource( 304 ), ExtResource( 304 ), ExtResource( 304 ), ExtResource( 304 ), ExtResource( 304 ), ExtResource( 304 ), ExtResource( 304 ), ExtResource( 304 ), ExtResource( 304 ), ExtResource( 304 ), ExtResource( 304 ), ExtResource( 304 ), ExtResource( 304 ), ExtResource( 304 ), ExtResource( 304 ), ExtResource( 304 ), ExtResource( 304 ), ExtResource( 304 ), ExtResource( 304 ), ExtResource( 304 ), ExtResource( 304 ), ExtResource( 304 ), ExtResource( 304 ), ExtResource( 304 ), ExtResource( 304 ), ExtResource( 304 ), ExtResource( 304 ), ExtResource( 304 ), ExtResource( 304 ), ExtResource( 304 ), ExtResource( 304 ), ExtResource( 304 ), ExtResource( 291 ), ExtResource( 304 ), ExtResource( 304 ), ExtResource( 304 ), ExtResource( 304 ), ExtResource( 304 ), ExtResource( 304 ), ExtResource( 304 ), ExtResource( 304 ), ExtResource( 304 ), ExtResource( 304 ), ExtResource( 304 ), ExtResource( 304 ), ExtResource( 304 ), ExtResource( 304 ), ExtResource( 304 ) ],
+"loop": true,
+"name": "filtro1",
+"speed": 85.0
+}, {
+"frames": [ ExtResource( 296 ), ExtResource( 292 ) ],
+"loop": true,
+"name": "filtro7",
+"speed": 5.0
+}, {
+"frames": [ ExtResource( 175 ) ],
+"loop": true,
+"name": "fond",
+"speed": 5.0
+} ]
+
+[node name="Node2D" type="Node2D"]
+script = ExtResource( 298 )
+
+[node name="fondo" type="AnimatedSprite" parent="."]
+position = Vector2( 205.2, 152.95 )
+frames = SubResource( 1 )
+script = ExtResource( 305 )
+
+[node name="arbol" type="AnimatedSprite" parent="."]
+position = Vector2( 206, 155 )
+frames = SubResource( 2 )
+animation = "suave"
+script = ExtResource( 297 )
+
+[node name="textos1" type="RichTextLabel" parent="arbol"]
+margin_left = -177.0
+margin_top = -139.0
+margin_right = 174.0
+margin_bottom = 139.0
+custom_fonts/normal_font = SubResource( 3 )
+custom_colors/default_color = Color( 1, 1, 1, 1 )
+bbcode_enabled = true
+tab_size = 12
+scroll_active = false
+script = ExtResource( 302 )
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="tiempo1" type="Timer" parent="arbol"]
+wait_time = 0.025
+script = ExtResource( 303 )
+
+[node name="CAMARA1" type="AnimatedSprite" parent="."]
+position = Vector2( 205, 150 )
+frames = SubResource( 4 )
+animation = "rock"
+frame = 6
+playing = true
+script = ExtResource( 299 )
+
+[node name="tcam1" type="Timer" parent="CAMARA1"]
+wait_time = 0.1
+one_shot = true
+script = ExtResource( 309 )
+
+[node name="CAMARA2" type="AnimatedSprite" parent="."]
+position = Vector2( 208, 150 )
+frames = SubResource( 5 )
+animation = "CAM2"
+frame = 26
+script = ExtResource( 300 )
+
+[node name="tcam2" type="Timer" parent="CAMARA2"]
+wait_time = 0.1
+one_shot = true
+script = ExtResource( 293 )
+
+[node name="camraf" type="AnimatedSprite" parent="."]
+position = Vector2( 204.055, 151.755 )
+frames = SubResource( 6 )
+script = ExtResource( 308 )
+
+[node name="puntos" type="CanvasLayer" parent="."]
+script = ExtResource( 319 )
+
+[node name="tiempol" type="Label" parent="puntos"]
+anchor_left = 0.5
+anchor_right = 0.5
+margin_left = -37.0
+margin_right = 31.0
+margin_bottom = 77.0
+custom_fonts/font = SubResource( 7 )
+custom_colors/font_color = Color( 1, 1, 1, 1 )
+text = "0
+"
+align = 1
+valign = 1
+script = ExtResource( 320 )
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="segundt" type="Timer" parent="puntos"]
+script = ExtResource( 321 )
+
+[node name="ponys" type="Area2D" parent="."]
+position = Vector2( 136.913, 200.691 )
+script = ExtResource( 313 )
+
+[node name="pigglet" type="AnimatedSprite" parent="ponys"]
+position = Vector2( -1.54754, 0.773788 )
+frames = SubResource( 8 )
+animation = "s1"
+script = ExtResource( 317 )
+
+[node name="Collision1" type="CollisionShape2D" parent="ponys"]
+position = Vector2( 1.8819, 2.57211 )
+rotation = 1.5708
+shape = SubResource( 9 )
+
+[node name="tiempo" type="Timer" parent="ponys"]
+script = ExtResource( 315 )
+
+[node name="arco1" type="CPUParticles2D" parent="ponys"]
+material = SubResource( 10 )
+position = Vector2( -58.8076, 9.2854 )
+z_as_relative = false
+amount = 15
+lifetime = 0.3
+local_coords = false
+texture = ExtResource( 322 )
+gravity = Vector2( 0, 0 )
+color_ramp = SubResource( 11 )
+script = ExtResource( 323 )
+
+[node name="pony2" type="RigidBody2D" parent="."]
+position = Vector2( 338.097, 238.465 )
+collision_layer = 0
+gravity_scale = 0.0
+script = ExtResource( 314 )
+
+[node name="pooh" type="AnimatedSprite" parent="pony2"]
+frames = SubResource( 12 )
+animation = "p1"
+script = ExtResource( 318 )
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="pony2"]
+rotation = 1.5708
+shape = SubResource( 13 )
+
+[node name="azar" type="Timer" parent="pony2"]
+wait_time = 0.025
+script = ExtResource( 316 )
+
+[node name="arco2" type="CPUParticles2D" parent="pony2"]
+material = SubResource( 14 )
+position = Vector2( 60.6201, 20.8621 )
+amount = 15
+lifetime = 0.3
+local_coords = false
+texture = ExtResource( 324 )
+gravity = Vector2( 0, 0 )
+color_ramp = SubResource( 15 )
+script = ExtResource( 325 )
+
+[node name="FILTROS" type="AnimatedSprite" parent="."]
+position = Vector2( 206.406, 154.1 )
+scale = Vector2( 1.00657, 1 )
+frames = SubResource( 16 )
+animation = "controles"
+script = ExtResource( 301 )
+
+[node name="H1" type="AudioStreamPlayer" parent="."]
+stream = ExtResource( 326 )
+script = ExtResource( 355 )
+
+[node name="camion" type="AudioStreamPlayer" parent="."]
+stream = ExtResource( 329 )
+volume_db = 3.949
+script = ExtResource( 356 )
+
+[node name="zarpado" type="AudioStreamPlayer" parent="."]
+stream = ExtResource( 330 )
+volume_db = -7.393
+pitch_scale = 0.75
+script = ExtResource( 344 )
+
+[node name="cuchillo" type="AudioStreamPlayer" parent="."]
+stream = ExtResource( 328 )
+script = ExtResource( 359 )
+
+[node name="pajaritos" type="AudioStreamPlayer" parent="."]
+stream = ExtResource( 327 )
+script = ExtResource( 358 )
+
+[node name="H4" type="AudioStreamPlayer" parent="."]
+stream = ExtResource( 331 )
+script = ExtResource( 354 )
+
+[node name="final" type="AudioStreamPlayer" parent="."]
+stream = ExtResource( 336 )
+script = ExtResource( 345 )
+
+[node name="pintanightcore" type="AudioStreamPlayer" parent="."]
+stream = ExtResource( 333 )
+script = ExtResource( 349 )
+
+[node name="pinta" type="AudioStreamPlayer" parent="."]
+stream = ExtResource( 334 )
+script = ExtResource( 353 )
+
+[node name="tranquilo" type="AudioStreamPlayer" parent="."]
+stream = ExtResource( 332 )
+script = ExtResource( 350 )
+
+[node name="H2" type="AudioStreamPlayer" parent="."]
+stream = ExtResource( 335 )
+script = ExtResource( 347 )
+
+[node name="rtrasiz" type="AudioStreamPlayer" parent="."]
+stream = ExtResource( 339 )
+script = ExtResource( 343 )
+
+[node name="rder2" type="AudioStreamPlayer" parent="."]
+stream = ExtResource( 337 )
+script = ExtResource( 351 )
+
+[node name="rder" type="AudioStreamPlayer" parent="."]
+stream = ExtResource( 341 )
+script = ExtResource( 352 )
+
+[node name="riz" type="AudioStreamPlayer" parent="."]
+stream = ExtResource( 342 )
+script = ExtResource( 357 )
+
+[node name="screamo" type="AudioStreamPlayer" parent="."]
+stream = ExtResource( 340 )
+volume_db = -1.317
+script = ExtResource( 348 )
+
+[node name="sorpresa" type="AudioStreamPlayer" parent="."]
+stream = ExtResource( 338 )
+script = ExtResource( 346 )
+
+[node name="tizquierda" type="TouchScreenButton" parent="."]
+scale = Vector2( 1.17696, 1.25714 )
+normal = ExtResource( 507 )
+pressed = ExtResource( 507 )
+action = "izquierda"
+script = ExtResource( 508 )
+
+[node name="tderecha" type="TouchScreenButton" parent="."]
+position = Vector2( 209.695, 0 )
+scale = Vector2( 1.2143, 1.24878 )
+normal = ExtResource( 507 )
+pressed = ExtResource( 507 )
+action = "derecha"
+script = ExtResource( 509 )
+
+[node name="jarriba" type="TouchScreenButton" parent="."]
+position = Vector2( 218.981, 0 )
+scale = Vector2( 1.18193, 0.314286 )
+normal = ExtResource( 507 )
+pressed = ExtResource( 507 )
+action = "ui_up"
+script = ExtResource( 512 )
+
+[node name="jarbajo" type="TouchScreenButton" parent="."]
+position = Vector2( 2, 252.142 )
+scale = Vector2( 1.08636, 0.232987 )
+normal = ExtResource( 507 )
+pressed = ExtResource( 507 )
+action = "ui_down"
+script = ExtResource( 510 )
+
+[node name="jderecha" type="TouchScreenButton" parent="."]
+position = Vector2( 218.981, 85.1163 )
+scale = Vector2( 1.15802, 0.901362 )
+normal = ExtResource( 507 )
+pressed = ExtResource( 507 )
+action = "ui_right"
+script = ExtResource( 511 )
+
+[node name="jizquierda" type="TouchScreenButton" parent="."]
+position = Vector2( 2, -3 )
+scale = Vector2( 1.08636, 1 )
+normal = ExtResource( 507 )
+pressed = ExtResource( 507 )
+action = "ui_left"
+script = ExtResource( 513 )
+
+[node name="caballo" type="AudioStreamPlayer" parent="."]
+stream = ExtResource( 515 )
+script = ExtResource( 514 )
+
+[node name="rock" type="AudioStreamPlayer" parent="."]
+stream = ExtResource( 527 )
+script = ExtResource( 526 )
+[connection signal="colornegro" from="arbol" to="FILTROS" method="_on_arbol_colornegro"]
+[connection signal="colorverde" from="arbol" to="FILTROS" method="_on_arbol_colorverde"]
+[connection signal="jugar" from="arbol/textos1" to="ponys" method="_on_textos1_jugar"]
+[connection signal="jugar" from="arbol/textos1" to="pony2/pooh" method="_on_textos1_jugar"]
+[connection signal="jugar" from="arbol/textos1" to="ponys/pigglet" method="_on_textos1_jugar"]
+[connection signal="jugar" from="arbol/textos1" to="pony2" method="_on_textos1_jugar"]
+[connection signal="jugar" from="arbol/textos1" to="puntos/tiempol" method="_on_textos1_jugar"]
+[connection signal="jugar" from="arbol/textos1" to="ponys/arco1" method="_on_textos1_jugar"]
+[connection signal="jugar" from="arbol/textos1" to="pony2/arco2" method="_on_textos1_jugar"]
+[connection signal="jugar" from="arbol/textos1" to="ponys/tiempo" method="_on_textos1_jugar"]
+[connection signal="jugar" from="arbol/textos1" to="pony2/azar" method="_on_textos1_jugar"]
+[connection signal="jugar" from="arbol/textos1" to="puntos/segundt" method="_on_textos1_jugar"]
+[connection signal="palgulag" from="arbol/textos1" to="arbol" method="_on_textos1_palgulag"]
+[connection signal="palgulag" from="arbol/textos1" to="CAMARA1" method="_on_textos1_palgulag"]
+[connection signal="palgulag" from="arbol/textos1" to="CAMARA2" method="_on_textos1_palgulag"]
+[connection signal="palgulag" from="arbol/textos1" to="." method="_on_textos1_palgulag"]
+[connection signal="palgulag" from="arbol/textos1" to="tranquilo" method="_on_textos1_palgulag"]
+[connection signal="pasarpag" from="arbol/textos1" to="arbol" method="_on_textos1_pasarpag"]
+[connection signal="pcaballo" from="arbol/textos1" to="caballo" method="_on_textos1_pcaballo"]
+[connection signal="pcamion" from="arbol/textos1" to="camion" method="_on_textos1_pcamion"]
+[connection signal="pcuchillo" from="arbol/textos1" to="cuchillo" method="_on_textos1_pcuchillo"]
+[connection signal="pfiltro1" from="arbol/textos1" to="FILTROS" method="_on_textos1_pfiltro1"]
+[connection signal="pfinal" from="arbol/textos1" to="final" method="_on_textos1_pfinal"]
+[connection signal="ph1" from="arbol/textos1" to="H1" method="_on_textos1_ph1"]
+[connection signal="ph2" from="arbol/textos1" to="H2" method="_on_textos1_ph2"]
+[connection signal="ph4" from="arbol/textos1" to="H4" method="_on_textos1_ph4"]
+[connection signal="ponercam1" from="arbol/textos1" to="CAMARA1" method="_on_textos1_ponercam1"]
+[connection signal="ponercam1" from="arbol/textos1" to="CAMARA1/tcam1" method="_on_textos1_ponercam1"]
+[connection signal="ponercam2" from="arbol/textos1" to="CAMARA2" method="_on_textos1_ponercam2"]
+[connection signal="ponercontroles" from="arbol/textos1" to="FILTROS" method="_on_textos1_ponercontroles"]
+[connection signal="ponerfar" from="arbol/textos1" to="camraf" method="_on_textos1_ponerfar"]
+[connection signal="ponerfondo" from="arbol/textos1" to="arbol" method="_on_textos1_ponerfondo"]
+[connection signal="ppajaritos" from="arbol/textos1" to="pajaritos" method="_on_textos1_ppajaritos"]
+[connection signal="ppinta" from="arbol/textos1" to="pinta" method="_on_textos1_ppinta"]
+[connection signal="prder" from="arbol/textos1" to="rder" method="_on_textos1_prder"]
+[connection signal="prder2" from="arbol/textos1" to="rder2" method="_on_textos1_prder2"]
+[connection signal="priz" from="arbol/textos1" to="riz" method="_on_textos1_priz"]
+[connection signal="prtrasiz" from="arbol/textos1" to="rtrasiz" method="_on_textos1_prtrasiz"]
+[connection signal="pscreamo" from="arbol/textos1" to="screamo" method="_on_textos1_pscreamo"]
+[connection signal="psorpresa" from="arbol/textos1" to="sorpresa" method="_on_textos1_psorpresa"]
+[connection signal="sacararbol" from="arbol/textos1" to="arbol" method="_on_textos1_sacararbol"]
+[connection signal="sacarfondo" from="arbol/textos1" to="arbol" method="_on_textos1_sacarfondo"]
+[connection signal="scamion" from="arbol/textos1" to="camion" method="_on_textos1_scamion"]
+[connection signal="scuchillo" from="arbol/textos1" to="cuchillo" method="_on_textos1_scuchillo"]
+[connection signal="sfiltro1" from="arbol/textos1" to="FILTROS" method="_on_textos1_sfiltro1"]
+[connection signal="sfinal" from="arbol/textos1" to="final" method="_on_textos1_sfinal"]
+[connection signal="sh1" from="arbol/textos1" to="H1" method="_on_textos1_sh1"]
+[connection signal="sh2" from="arbol/textos1" to="H2" method="_on_textos1_sh2"]
+[connection signal="sh4" from="arbol/textos1" to="H4" method="_on_textos1_sh4"]
+[connection signal="spajaritos" from="arbol/textos1" to="pajaritos" method="_on_textos1_spajaritos"]
+[connection signal="srder" from="arbol/textos1" to="rder" method="_on_textos1_srder"]
+[connection signal="srder2" from="arbol/textos1" to="rder2" method="_on_textos1_srder2"]
+[connection signal="sriz" from="arbol/textos1" to="riz" method="_on_textos1_sriz"]
+[connection signal="srtrasiz" from="arbol/textos1" to="rtrasiz" method="_on_textos1_srtrasiz"]
+[connection signal="ssorpresa" from="arbol/textos1" to="sorpresa" method="_on_textos1_ssorpresa"]
+[connection signal="timeout" from="arbol/tiempo1" to="arbol/textos1" method="_on_tiempo1_timeout"]
+[connection signal="listoco" from="CAMARA1" to="arbol" method="_on_CAMARA1_listoco"]
+[connection signal="listoco" from="CAMARA1" to="camraf" method="_on_CAMARA1_listoco"]
+[connection signal="listoco" from="CAMARA1" to="arbol/textos1" method="_on_CAMARA1_listoco"]
+[connection signal="pa3" from="CAMARA1" to="H1" method="_on_CAMARA1_pa3"]
+[connection signal="pallende" from="CAMARA1" to="tranquilo" method="_on_CAMARA1_pallende"]
+[connection signal="pbirds" from="CAMARA1" to="pajaritos" method="_on_CAMARA1_pbirds"]
+[connection signal="pcraf" from="CAMARA1" to="camraf" method="_on_CAMARA1_pcraf"]
+[connection signal="ponerfiltro2" from="CAMARA1" to="FILTROS" method="_on_CAMARA1_ponerfiltro2"]
+[connection signal="ponerfiltro4" from="CAMARA1" to="FILTROS" method="_on_CAMARA1_ponerfiltro4"]
+[connection signal="pp2" from="CAMARA1" to="H4" method="_on_CAMARA1_pp2"]
+[connection signal="pr10" from="CAMARA1" to="final" method="_on_CAMARA1_pr10"]
+[connection signal="pr11" from="CAMARA1" to="pinta" method="_on_CAMARA1_pr11"]
+[connection signal="pr11nightcore" from="CAMARA1" to="pintanightcore" method="_on_CAMARA1_pr11nightcore"]
+[connection signal="pr28" from="CAMARA1" to="H2" method="_on_CAMARA1_pr28"]
+[connection signal="prock" from="CAMARA1" to="rock" method="_on_CAMARA1_prock"]
+[connection signal="ptension" from="CAMARA1" to="sorpresa" method="_on_CAMARA1_ptension"]
+[connection signal="sa3" from="CAMARA1" to="H1" method="_on_CAMARA1_sa3"]
+[connection signal="sacarfiltro2" from="CAMARA1" to="FILTROS" method="_on_CAMARA1_sacarfiltro2"]
+[connection signal="sallende" from="CAMARA1" to="tranquilo" method="_on_CAMARA1_sallende"]
+[connection signal="sbirds" from="CAMARA1" to="pajaritos" method="_on_CAMARA1_sbirds"]
+[connection signal="scraf" from="CAMARA1" to="camraf" method="_on_CAMARA1_scraf"]
+[connection signal="sp2" from="CAMARA1" to="H4" method="_on_CAMARA1_sp2"]
+[connection signal="sr11" from="CAMARA1" to="pinta" method="_on_CAMARA1_sr11"]
+[connection signal="sr11nightcore" from="CAMARA1" to="pintanightcore" method="_on_CAMARA1_sr11nightcore"]
+[connection signal="sr28" from="CAMARA1" to="H2" method="_on_CAMARA1_sr28"]
+[connection signal="srock" from="CAMARA1" to="rock" method="_on_CAMARA1_srock"]
+[connection signal="st10" from="CAMARA1" to="final" method="_on_CAMARA1_st10"]
+[connection signal="stension" from="CAMARA1" to="sorpresa" method="_on_CAMARA1_stension"]
+[connection signal="tim" from="CAMARA1" to="CAMARA1/tcam1" method="_on_CAMARA1_tim"]
+[connection signal="timeout" from="CAMARA1/tcam1" to="CAMARA1" method="_on_tcam1_timeout"]
+[connection signal="listoco2" from="CAMARA2" to="arbol" method="_on_CAMARA2_listoco2"]
+[connection signal="listoco2" from="CAMARA2" to="camraf" method="_on_CAMARA2_listoco2"]
+[connection signal="listoco2" from="CAMARA2" to="arbol/textos1" method="_on_CAMARA2_listoco2"]
+[connection signal="ponerfiltro6" from="CAMARA2" to="FILTROS" method="_on_CAMARA2_ponerfiltro6"]
+[connection signal="ponertension" from="CAMARA2" to="sorpresa" method="_on_CAMARA2_ponertension"]
+[connection signal="sacarfiltro6" from="CAMARA2" to="FILTROS" method="_on_CAMARA2_sacarfiltro6"]
+[connection signal="sacartension" from="CAMARA2" to="sorpresa" method="_on_CAMARA2_sacartension"]
+[connection signal="tim2" from="CAMARA2" to="CAMARA2/tcam2" method="_on_CAMARA2_tim2"]
+[connection signal="timeout" from="CAMARA2/tcam2" to="CAMARA2" method="_on_tcam2_timeout"]
+[connection signal="timeout" from="puntos/segundt" to="puntos/tiempol" method="_on_segundt_timeout"]
+[connection signal="body_entered" from="ponys" to="ponys" method="_on_ponys_body_entered"]
+[connection signal="ganar" from="ponys" to="pony2/pooh" method="_on_ponys_ganar"]
+[connection signal="ganar" from="ponys" to="arbol" method="_on_ponys_ganar"]
+[connection signal="ganar" from="ponys" to="ponys/pigglet" method="_on_ponys_ganar"]
+[connection signal="ganar" from="ponys" to="pony2" method="_on_ponys_ganar"]
+[connection signal="ganar" from="ponys" to="arbol/textos1" method="_on_ponys_ganar"]
+[connection signal="ganar" from="ponys" to="puntos/tiempol" method="_on_ponys_ganar"]
+[connection signal="ganar" from="ponys" to="ponys/arco1" method="_on_ponys_ganar"]
+[connection signal="ganar" from="ponys" to="pony2/arco2" method="_on_ponys_ganar"]
+[connection signal="ganar" from="ponys" to="ponys/tiempo" method="_on_ponys_ganar"]
+[connection signal="ganar" from="ponys" to="pony2/azar" method="_on_ponys_ganar"]
+[connection signal="ganar" from="ponys" to="puntos/segundt" method="_on_ponys_ganar"]
+[connection signal="ganar" from="ponys" to="FILTROS" method="_on_ponys_ganar"]
+[connection signal="perder" from="ponys" to="pony2" method="_on_ponys_perder"]
+[connection signal="perder" from="ponys" to="puntos/tiempol" method="_on_ponys_perder"]
+[connection signal="pintar" from="ponys" to="pony2" method="_on_ponys_pintar"]
+[connection signal="pintar" from="ponys" to="puntos/tiempol" method="_on_ponys_pintar"]
+[connection signal="pnightcore" from="ponys" to="pintanightcore" method="_on_ponys_pnightcore"]
+[connection signal="pzarpado" from="ponys" to="zarpado" method="_on_ponys_pzarpado"]
+[connection signal="sdaycore" from="ponys" to="pinta" method="_on_ponys_sdaycore"]
+[connection signal="snightcore" from="ponys" to="pintanightcore" method="_on_ponys_snightcore"]
+[connection signal="szarpado" from="ponys" to="zarpado" method="_on_ponys_szarpado"]
+[connection signal="timeout" from="ponys/tiempo" to="ponys" method="_on_tiempo_timeout"]
+[connection signal="timeout" from="pony2/azar" to="pony2" method="_on_azar_timeout"]

@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/rocknchile.ogg-e92f190613c9c230a9cfc45ce46c5330.oggstr"
+
+[deps]
+
+source_file="res://rock/rocknchile.ogg"
+dest_files=[ "res://.import/rocknchile.ogg-e92f190613c9c230a9cfc45ce46c5330.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

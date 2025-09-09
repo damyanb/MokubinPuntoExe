@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/cuchillo.ogg-49a43eae5aace01a03c253ddf7586430.oggstr"
+
+[deps]
+
+source_file="res://sonidos/cuchillo.ogg"
+dest_files=[ "res://.import/cuchillo.ogg-49a43eae5aace01a03c253ddf7586430.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

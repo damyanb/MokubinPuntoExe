@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Pumk 2 remastered.wav-827106fcf5ceb4438e3327afe1d9f6f4.sample"
+
+[deps]
+
+source_file="res://sonidos/Pumk 2 remastered.wav"
+dest_files=[ "res://.import/Pumk 2 remastered.wav-827106fcf5ceb4438e3327afe1d9f6f4.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=true
+compress/mode=0

@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/tension.ogg-792a3f143a6a6804905af20485849a9f.oggstr"
+
+[deps]
+
+source_file="res://sonidos/tension.ogg"
+dest_files=[ "res://.import/tension.ogg-792a3f143a6a6804905af20485849a9f.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

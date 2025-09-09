@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/scramer.wav-3e87ae14df5b54fd34d7ed0bd7d8df52.sample"
+
+[deps]
+
+source_file="res://sonidos/scramer.wav"
+dest_files=[ "res://.import/scramer.wav-3e87ae14df5b54fd34d7ed0bd7d8df52.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

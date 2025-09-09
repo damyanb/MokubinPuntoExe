@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/R11 Nightcore.ogg-243183f8302212fd2575f5846b5eaad0.oggstr"
+
+[deps]
+
+source_file="res://sonidos/R11 Nightcore.ogg"
+dest_files=[ "res://.import/R11 Nightcore.ogg-243183f8302212fd2575f5846b5eaad0.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

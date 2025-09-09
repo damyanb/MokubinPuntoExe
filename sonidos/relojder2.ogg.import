@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/relojder2.ogg-3106d819fe0bf0d2e33ba1a5ee2712e7.oggstr"
+
+[deps]
+
+source_file="res://sonidos/relojder2.ogg"
+dest_files=[ "res://.import/relojder2.ogg-3106d819fe0bf0d2e33ba1a5ee2712e7.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

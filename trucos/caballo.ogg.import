@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/caballo.ogg-bfec0ca4d31062b581160efe892712e3.oggstr"
+
+[deps]
+
+source_file="res://trucos/caballo.ogg"
+dest_files=[ "res://.import/caballo.ogg-bfec0ca4d31062b581160efe892712e3.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

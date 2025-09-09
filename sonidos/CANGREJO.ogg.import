@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/CANGREJO.ogg-5cff5c0078db3c29db8340f6cba55810.oggstr"
+
+[deps]
+
+source_file="res://sonidos/CANGREJO.ogg"
+dest_files=[ "res://.import/CANGREJO.ogg-5cff5c0078db3c29db8340f6cba55810.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

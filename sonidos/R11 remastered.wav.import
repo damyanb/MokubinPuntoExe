@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/R11 remastered.wav-b17e3152eb2f5f9271a34fa89c118ad2.sample"
+
+[deps]
+
+source_file="res://sonidos/R11 remastered.wav"
+dest_files=[ "res://.import/R11 remastered.wav-b17e3152eb2f5f9271a34fa89c118ad2.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=true
+compress/mode=0
